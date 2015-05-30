@@ -1,6 +1,6 @@
 #Data Sources
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
-Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http://www.meetup.com/codeforla/) [GitHub](https://github.com/codeforla).
+Maintained for use by local Code for America Brigade, Code for LA and [Hack for LA](http://www.hackforla.org). [Meetup](http://www.meetup.com/codeforla/) [GitHub](https://github.com/codeforla) .
 
 ##Cities and County
 
@@ -20,7 +20,8 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [City of Santa Monica GTFS Data](https://github.com/CityofSantaMonica/GTFS) On GitHub!
 + [City of Santa Monica Annual Budgets](http://www.smgov.net/Departments/Finance/content.aspx?id=11955) (PDF)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
-+ [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
++ [City of Los Angeles Data Portal](https://data.lacity.org)
++ [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "Control Panel LA" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
   + CityBoundary
   + CouncilDistricts
@@ -32,6 +33,7 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
   + Streetlights
   + TrashCollection
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
++ [Los Angeles County Data Portal](https://data.lacounty.gov)
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
 + [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
 + [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)

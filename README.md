@@ -1,6 +1,6 @@
 #Data Sources
 List of civic data sources in the Los Angeles area, including some links to state and federal data portals.
-Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http://www.meetup.com/codeforla/) [GitHub](https://github.com/codeforla).
+Maintained for use by local Code for America Brigade, Code for LA [Meetup](http://www.meetup.com/codeforla/) [GitHub](https://github.com/codeforla) and Hack for LA [Website](http://www.hackforla.org) [GitHub](https://github.com/hackforla).
 
 ##Cities and County
 
@@ -19,7 +19,8 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
 + [City of Santa Monica Landmarks](http://www.smgov.net/uploadedFiles/Departments/PCD/Programs/Historic-Preservation/Designated-Landmarks-Address.pdf) (PDF)
 + [City of Santa Monica Water Usage Records](https://data.smgov.net/Public-Services/Water-Usage/4nnq-5vzx)
 + [City of Los Angeles Performance Metrics](http://www.lamayor.org/performance) No raw data yet, just ugly useless bar graphs
-+ [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "The Control Panel" uses Socrata platform
++ [City of Los Angeles Data Portal](https://data.lacity.org)
++ [City of Los Angeles Budget Data](https://controllerdata.lacity.org/) 10 datasets from the City Controller aka "Control Panel LA" uses Socrata platform
 + [City of Los Angeles ArcGIS REST Services Directory](http://services1.arcgis.com/p84PN4WZvOWzi2j2/ArcGIS/rest/services) (JSON APIs)
   + CityBoundary
   + CouncilDistricts
@@ -31,6 +32,7 @@ Maintained for use by local Code for America Brigade, Code for LA. [Meetup](http
   + Streetlights
   + TrashCollection
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
++ [Los Angeles County Data Portal](https://data.lacounty.gov)
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
 + [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
 + [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)

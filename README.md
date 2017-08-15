@@ -1,4 +1,4 @@
-#Regional Data Inventory
+# Regional Data Inventory
 [Regional Data Inventory](https://docs.google.com/spreadsheets/d/1uNtA4GbBwky8PPdNUvmXXZCI1GLtH5cGF-Q0FqD90w0/edit?usp=sharing) (Google Sheets)
 
 This workbook is maintained by Vyki Englert and Emily Forscher of Compiler LLC on behalf of California Community Foundation. The primary spreadsheet uses structured metadata to track datasets that describe or pertain to Los Angeles County. Other sheets track regional data advocates, publishers, data standards, and relevant data portals.
@@ -7,12 +7,12 @@ For the purpose of this effort, a dataset is defined by the W3C as “A collecti
 
 This inventory is a landscape analysis for the Social Change Data Commons Project, as part of an ongoing collaboration with California Community Foundation. It is a work in progress. Please contact Vyki Englert (vyki@compiler.la) and Emily Forscher (emily@compiler.la) with concerns, questions, and suggestions.
 
-#Data Sources
+# Data Sources
 This repo was originally created and maintained by @vykster for use by the local civic tech community, in particular for use by local Code for America Brigade, Hack for LA. [Website](http://hackforla.org) [Meetup](http://www.meetup.com/hackforla/) [GitHub](https://github.com/hackforla).
 
 Indiviual links and metadata for datasets pertaining to the Los Angeles region may be found the in Regional Data Inventory linked above. Links to many publishers, portals, and data tools may be found below.
 
-##Cities
+## Cities
 City of Glendale
 + [City of Glendale Performance Dashboard](https://performance.glendaleca.gov) (Socrata)
 
@@ -51,12 +51,12 @@ City of Santa Monica
 City of West Hollywood
 + [City of West Hollywood Open Data Portal](https://data.weho.org/) (Socrata)
 
-##County - Los Angeles
+## County - Los Angeles
 + [Los Angeles County Open Data Portal](https://data.lacounty.gov/) (Socrata)
 + [Los Angeles County GIS Data Portal](http://egis3.lacounty.gov/dataportal/)
 + [Los Angeles County GIS Data Catalog](http://egis3.lacounty.gov/dataportal/data-catalog/)
 
-##Other County Governmental Agencies
+## Other County Governmental Agencies
 + [LA County Bike Count Data Clearinghouse](http://www.bikecounts.luskin.ucla.edu/) Interactive map and data downloads available (CSV) (KML)
 + [Los Angeles Homeless Services Authority Counts](https://www.lahsa.org/homeless-count/results)
 + [Metro RSS Feeds](http://www.metro.net/news/metro-rss/) for News, Blogs, Meetings, Agendas, Jobs, and Service Advisories
@@ -66,7 +66,7 @@ City of West Hollywood
 + [Metro GTFS Data](http://developer.metro.net/introduction/gtfs-data/download-metros-gtfs-data/)
 + [Metro GIS Data](http://developer.metro.net/introduction/gis-data/download-gis-data/) static shapefiles updated after each shakeup
 
-##State - California
+## State - California
 + [List of State Agencies from CA Civic Lab](https://github.com/caciviclab/caciviclab.github.io/blob/master/state-agencies/js/data.json) (JSON) _Note maintained by [cacivicLa.org](http://caciviclab.org), not the State of CA_
 + [Division of Land Resource Protection Farmland Data](http://redirect.conservation.ca.gov/DLRP/fmmp/product_page.asp) county data includes biennial land use conversion tables, historic data summaries, field analyst reports, GIS data and metadata, and soil units
 + [Transporation Injury Mapping System - School Data and Maps](http://tims.berkeley.edu/resources/srts/main.php#summary)
@@ -79,13 +79,13 @@ City of West Hollywood
 + [California Board of Equalization](http://boe.ca.gov/dataportal/)
 + [California Landscape Conservation Cooperative](http://climate.calcommons.org/lists/datasets)
 
-##Jobs
+## Jobs
 + [City of Santa Monica Job Opportunities](http://agency.governmentjobs.com/santamonica/default.cfm)
 + [City of Los Angeles Job Opportunities](http://agency.governmentjobs.com/lacity/default.cfm)
 + [Los Angeles County Job Opportunities](http://hr.lacounty.gov/wps/portal/dhr/job_search)
 + [Metro Job Opportunities](https://jobs.metro.net/jobsearch.aspx)
 
-##Other links
+## Other links
 + [Metro Developer](http://developer.metro.net/)
 + [National Day of Civic Hacking Datasets and Resources](http://hackforchange.org/datasets) Community sourced list
 + [OpenDataCatalog San Diego](http://catalog.opensandiego.org/) maintainted by CfA brigade
@@ -106,9 +106,9 @@ City of West Hollywood
 + [Medicare](https://data.medicare.gov/) (Socrata)
 + [National Center for Education Statistics](http://nces.ed.gov/datatools/) _List of tools_
 
-##Potential
+## Potential
 
 + [Cultivate LA](http://cultivatelosangeles.org/) interactive map and report on all urban ag sites in Los Angeles County
 
-##Data Standards
+## Data Standards
 + [Compiler LA Civic Data Standards List](https://github.com/compilerla/civic-data-standards) _Now Maintained Separately_
